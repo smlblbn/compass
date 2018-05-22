@@ -11,3 +11,4 @@ dependencies:
 - tensorflow-gpu
 - keras
 - jupyter
+- requests
