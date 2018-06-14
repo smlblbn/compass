@@ -1,4 +1,4 @@
-name: project
+name: deepproject
 dependencies:
 - python=3.6.3
 - numpy
