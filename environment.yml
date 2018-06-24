@@ -1,12 +1,9 @@
 name: compass
 dependencies:
-- python=3.6.3
+- python=3.6.5
 - numpy
 - matplotlib
 - pandas
-- seaborn
-- scikit-learn
-- scipy
 - pytorch
 - tensorflow-gpu
 - keras
