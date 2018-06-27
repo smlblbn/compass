@@ -9,3 +9,4 @@ dependencies:
 - keras
 - jupyter
 - requests
+- scikit-learn
