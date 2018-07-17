@@ -1,4 +1,4 @@
 # compass
-Predicting which team and player has the ball.
+Within this project, the main goal is to predict the player who controls the ball at any second with the location of the players on the football pitch and the average speed of these players. Using this prediction, the next possible pass can be predicted even if the real pass is not successful. After detecting the player who has the ball, the system detects the possible pass options of that player then, it gives the best option as output. LSTM network was used for implementing the model.
 
-Within this project, the main goal is predicting the player who controls the ball at that second with the location of the players on the football pitch and average speed of that players. With this prediction, next possible move at that second can be predicted even if the real move is not successful. The system predicts the player who has the ball at that moment. After that prediction, it checks the possible pass and shoots options for him then, it gives the best option as output. LSTM network was used for implementing the model. 
+Dataset is provided by the Sentio Sports Analytics. Company website is https://sentiosports.com
