@@ -4,9 +4,11 @@ dependencies:
 - numpy
 - matplotlib
 - pandas
-- pytorch
+- tensorflow
 - tensorflow-gpu
 - keras
+- keras-gpu
 - jupyter
+- notebook
 - requests
 - scikit-learn
